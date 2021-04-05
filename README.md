@@ -5,5 +5,5 @@ A prototype of the beach parking application being developed as a senior project
 ![image_a](image_a.png)
 ![image_b](image_b.png)
 
-## Example MP4
-![example_mp4](example.mp4)
+## Example GIF
+![example_gif](example.gif)
