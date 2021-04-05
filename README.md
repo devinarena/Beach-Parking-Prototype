@@ -7,3 +7,4 @@ A prototype of the beach parking application being developed as a senior project
 
 ## Example GIF
 ![example_gif](example.gif)
+Note: Compression makes it looks trange, images are a better visual representation of design.
