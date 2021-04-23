@@ -7,3 +7,6 @@ A prototype of the beach parking application being developed as a senior project
 
 ## Example GIF
 ![example_gif](example.gif)
+
+## Software Requirements Specification
+You can view the SRS containing the bulk of information regarding this project, its listed as Software Requirements Specification (SRS).pdf.
